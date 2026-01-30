@@ -116,11 +116,19 @@ Method: In order to prove a proposition P by contradiction:
 == Good Proofs in Practice
 
 state your game plan
+
 keep a linear flow
+
 A proof is an essay, not a calculation
+
 Avoid excessive symbolism.
+
 Revise and simplify.
+
 Introduce notation thoughtfully.
+
 Structure long proofs.
+
 Be wary of the "obvious".
+
 Finish.
