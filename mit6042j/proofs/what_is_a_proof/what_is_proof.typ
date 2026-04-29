@@ -1,4 +1,4 @@
-#import "../../common.typ": noindent, project
+#import "../../../common.typ": noindent, project
 
 #show: project
 
